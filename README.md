@@ -55,6 +55,7 @@ source .devops/bin/activate
 
 ### Project files
 
+```bash
 .
 ├── app.py\n
 ├── Dockerfile\n
@@ -71,3 +72,4 @@ source .devops/bin/activate
 ├── run_docker.sh
 ├── run_kubernetes.sh
 └── upload_docker.sh
+```
