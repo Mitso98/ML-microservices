@@ -55,7 +55,7 @@ source .devops/bin/activate
 
 ### Project files
 
-.\n
+.
 ├── app.py\n
 ├── Dockerfile\n
 ├── Makefile
