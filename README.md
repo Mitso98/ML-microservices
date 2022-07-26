@@ -55,9 +55,9 @@ source .devops/bin/activate
 
 ### Project files
 
-.
-├── app.py
-├── Dockerfile
+.\n
+├── app.py\n
+├── Dockerfile\n
 ├── Makefile
 ├── make_prediction.sh
 ├── model_data
